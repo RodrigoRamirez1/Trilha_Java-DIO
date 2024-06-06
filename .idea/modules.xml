@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda_Stream/Lambda_Stream.iml" filepath="$PROJECT_DIR$/Lambda_Stream/Lambda_Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Trilha_Java-DIO.iml" filepath="$PROJECT_DIR$/.idea/Trilha_Java-DIO.iml" />
     </modules>
   </component>
